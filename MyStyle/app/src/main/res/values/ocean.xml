@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="dan_bg">#009900</color>
+    <style name="dansTheme" parent="android:Theme.Light">
+        <item name="android:windowBackground">@color/dan_bg</item>
+    </style>
+
+</resources>
